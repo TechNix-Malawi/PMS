@@ -1,2 +1,0 @@
-# PMS
-Pupil Management System
